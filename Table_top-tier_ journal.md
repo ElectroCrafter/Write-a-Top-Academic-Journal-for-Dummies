@@ -1,9 +1,9 @@
 | **Characteristic**                   | **Explanation**                                                               |
 | ------------------------------------ | ----------------------------------------------------------------------------- |
-| **High Selectivity**                 | Editors often desk-reject papers lacking novelty or rigor before peer review. |
+| **High Selectivity**                 | Editors often reject papers lacking novelty. |
 | **Low Acceptance Rates**             | Sometimes below 10%; only the strongest papers survive.                       |
 | **High Scientific Impact**           | Measured by citations and influence on future research.                       |
-| **Rigorous Peer Review**             | Every claim is scrutinized by multiple experts.                               |
+| **Rigorous Peer Review**             | Every claim is inscpected by multiple experts.                                |
 | **Clear Theoretical Foundation**     | Papers must be grounded in established theory.                                |
 | **Robust & Transparent Methodology** | Methods must be sound, transparent, and ethically approved.                   |
 | **Openness**                         | Data, code, and ethical approval should be accessible.                        |
