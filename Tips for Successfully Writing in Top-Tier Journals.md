@@ -1,4 +1,4 @@
-| No | Tip                                   | Simple Explanation                                                            |
+| No | Tip                                   | Explanation                                                            |
 | -- | ------------------------------------- | ----------------------------------------------------------------------------- |
 | 1  | Start with a strong research question | Make a clear and novel question that fills a real gap in knowledge.           |
 | 2  | Choose journal early                  | Pick 3 journals (ambitious, realistic, safe) and study their style and scope. |
